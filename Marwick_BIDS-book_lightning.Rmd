@@ -1,0 +1,125 @@
+---
+title: "Practicing Reproducible Research"
+subtitle: "Four reflections"
+author: "Ben Marwick"
+date: "27 Jan 2017"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      autoplay: 30000
+    css: libs/custom.css
+      
+
+---
+
+
+## Introduction 
+
+  - From closet curiosity to debilitating obsession
+  - From disgruntled reviewer to interest group organiser
+
+
+![alt text](figures/science.png)
+
+
+
+
+---
+layout: false
+
+.left-column[
+  #### Introduction
+  ### Tools
+]
+
+.right-column[
+
+<img src="figures/benmarwick.png" height="600">
+
+
+
+
+]
+---
+layout: false
+
+.left-column[
+  #### Introduction
+  ### Tools
+]
+
+.right-column[
+
+<img src="figures/cover.jpg" height="600">
+
+
+
+
+]
+
+---
+layout: false
+
+.left-column[
+  #### Introduction
+  ### Tools
+]
+
+.right-column[
+
+<img src="figures/cos_logo.original.png" >
+
+
+
+
+]
+
+---
+layout: false
+
+.left-column[
+  ### Introduction
+  ### Tools
+  ## Pain points
+]
+
+.right-column[
+
+- <span class = "text75">Other people</span>     
+
+- <span class = "text75">Dependencies on R packages</span>    
+
+- <span class = "text75">Packrat & MRAN</span>  
+
+]
+
+
+---
+
+layout: false
+
+.left-column[
+  ### Introduction
+  ### Tools
+  ### Pain points
+  ## Challenges going forward
+]
+
+.right-column[
+
+
+- <span class = "text60">Diffuision into teaching</span>
+
+- <span class = "text60">Building the Interest Group</span>
+
+- <span class = "text60">Influencing scholarly publication</span>
+
+
+
+]
+
+---
+
+![alt text](figures/Fig1.png)

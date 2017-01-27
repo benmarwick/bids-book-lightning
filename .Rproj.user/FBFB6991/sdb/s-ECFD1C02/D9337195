@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);\n@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);\n\nbody { font-family: 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif; }\nh1, h2, h3, h4 {\n  font-family: 'Yanone Kaffeesatz';\n  font-weight: normal;\n}\na, a > code {\n  color: rgb(249, 38, 114);\n  text-decoration: none;\n}\n.footnote {\n  position: absolute;\n  bottom: 3em;\n  padding-right: 4em;\n  font-size: 90%;\n}\n.remark-code, .remark-inline-code { font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace; }\n.remark-code-line-highlighted     { background-color: #ffff88; }\n\n.inverse {\n  background-color: #272822;\n  color: #d6d6d6;\n  text-shadow: 0 0 20px #333;\n}\n.inverse h1, .inverse h2, .inverse h3, .inverse h4 {\n  color: #f3f3f3;\n  line-height: 1.0em;\n}\n/* Two-column layout */\n.left-column {\n  color: #777;\n  width: 20%;\n  height: 92%;\n  float: left;\n}\n.left-column h2:last-of-type, .left-column h3:last-child, .left-column h4:last-child {\n  color: #000;\n}\n.right-column {\n  width: 75%;\n  float: right;\n  padding-top: 1em;\n}\n.pull-left {\n  float: left;\n  width: 47%;\n}\n.pull-right {\n  float: right;\n  width: 47%;\n}\n.pull-right ~ * {\n  clear: both;\n}\nimg {\n  max-width: 100%;\n}\nblockquote {\n  border-left: solid 5px lightgray;\n  padding-left: 1em;\n}\n.text25 {\n  font-size: 25px\n}\n.text40 {\n  font-size: 40px\n}\n.text50 {\n  font-size: 50px\n}\n.text60 {\n  font-size: 60px\n}\n.text75 {\n  font-size: 75px\n}\n\n",
+    "created" : 1485502968497.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1227258841",
+    "id" : "D9337195",
+    "lastKnownWriteTime" : 1485503291,
+    "last_content_update" : 1485503291861,
+    "path" : "E:/My Documents/My Papers/conferences/BIDS_book_2017/libs/custom.css",
+    "project_path" : "libs/custom.css",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}
