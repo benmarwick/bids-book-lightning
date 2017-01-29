@@ -8,7 +8,6 @@ output:
     lib_dir: libs
     nature:
       highlightStyle: github
-      autoplay: 30000
     css: libs/custom.css
       
 
@@ -123,3 +122,22 @@ layout: false
 ---
 
 ![alt text](figures/Fig1.png)
+
+---
+
+## Colophon
+
+Presentation written in [R Markdown](http://rmarkdown.rstudio.com/)
+
+Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/) & [knitr](http://yihui.name/knitr)
+
+Source code hosting:
+<https://github.com/benmarwick/bids-book-lightning>
+
+ORCID: <http://orcid.org/0000-0001-7879-4531>
+
+Licensing: 
+
+* Presentation: [CC-BY-3.0](http://creativecommons.org/licenses/by/3.0/us/)
+
+* Source code: [MIT](http://opensource.org/licenses/MIT) 
