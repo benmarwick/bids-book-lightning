@@ -121,7 +121,7 @@ layout: false
 
 ---
 
-![alt text](figures/Fig1.png)
+![alt text](figures/Fig1a.png)
 
 ---
 
